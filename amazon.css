@@ -117,7 +117,7 @@ span{
 }
 /* .hero-section */
 .hero-section{
-    background-image: url(hero_img.jpg);
+    background-image: url(https://raw.githubusercontent.com/Priyanka-WebDev/Amazon-clone-App/main/hero_img.jpg);
     height: 350px;
     background-size: cover;
     font-size: 0.85rem;
